@@ -1,5 +1,5 @@
 // SamTESTER v1.1
-// Author: SamMHD
+// Author: Saman Mahdanian
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
@@ -65,3 +65,5 @@ bool same() {
 	}
 	return true;
 }
+
+// SamMHD :: Jan7-2019 :: Another Start to doing something new...
